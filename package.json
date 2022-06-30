@@ -19,7 +19,7 @@
     "nodemon": "^2.0.12"
   },
   "dependencies": {
-    "@azure/identity": "^2.0.0",
+    "@azure/identity": "^2.0.4",
     "@azure/keyvault-secrets": "^4.3.0",
     "config": "^3.3.6",
     "cookie-parser": "^1.4.5",
